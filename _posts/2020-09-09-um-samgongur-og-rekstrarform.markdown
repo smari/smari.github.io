@@ -17,9 +17,9 @@ Tæknin gefur og tæknin tekur. Fjarskipti á því sem nemur ljóshraða um hei
 
 Bættir þjóðvegir hafa auk þess dregið verulega úr ásókn í flug, enda er til dæmis ekki lengur 6 klukkutíma ferðalag í áætlunarbíl frá Stykkishólmi til Reykjavíkur, eins og var árið 1961. Að sama skapi er minni þörf á áætlunarflugi á Hellissand, Búðardal, Sauðárkrók og Raufarhöfn en var hér á árum áður.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2830edd8-f08d-4597-a5b6-3d86a84b5819/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2830edd8-f08d-4597-a5b6-3d86a84b5819/Untitled.png)
+![/assets/images/stykkisholmur-flug.png](/assets/images/stykkisholmur-flug.png)
 
-Úr Morgunblaðinu, 30. júlí 1961.
+*Úr Morgunblaðinu, 30. júlí 1961.*
 
 Þörfin á að ferðast hefur ekki breyst, og jafnvel hefur hún aukist. En farmátarnir hafa þróast verulega, ekki síst nú þegar hægt er að "mæta" á fundi út um allan heim í gegnum netið.
 
@@ -29,7 +29,7 @@ Upp úr stendur raunveruleg spurning (sem fyrirsögn þessa pistils vísar til):
 
 Hugsanlega. En til að ræða það þurfum við að ræða aðeins um Alexandersflugvöll, aðeins um Herjólf, og aðeins um leyfisveitingar.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f3d5729-8c51-4326-b805-e0f95b96064d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f3d5729-8c51-4326-b805-e0f95b96064d/Untitled.png)
+![/assets/images/alexandersflugvollur.png](/assets/images/alexandersflugvollur.png)
 
 Alexandersflugvöllur og Sauðárkrókur, skjáskot af Google Maps.
 
@@ -55,9 +55,9 @@ Við þessu eru til önnur viðbrögð sem manninum á Laugaveginum væri hugsan
 
 Rekstur Herjólfs í höndum Eyjamanna gengur betur en rekstur Herjólfs í höndum fólks sem aldrei fer til Vestmannaeyja. Skipulag flugvallarmála er sömuleiðis hugsanlega betra í höndum heimamanna á hverjum stað. En eitthvað kostar þetta.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e2b3802-66bc-411d-94d9-7373f6f32f49/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e2b3802-66bc-411d-94d9-7373f6f32f49/Untitled.png)
+![/assets/images/adflug-vestmannaeyjar.png](/assets/images/adflug-vestmannaeyjar.png)
 
-Greinarhöfundur á lokastefnu að braut 12 í Vestmannaeyjum.
+*Greinarhöfundur á lokastefnu að braut 12 í Vestmannaeyjum.*
 
 ## Regluverksfarganið og faldi kostnaðurinn
 
