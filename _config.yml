@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "is"
-title                    : "Pistlar og pælingar"
+title                    : "Greinar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Björn Leví Gunnarsson"
-description              : "Pistlar og pælingar"
-url                      : "https://bjornlevi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Smári McCarthy"
+description              : "Greinar"
+url                      : "https://smari.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "bjornlevi/bjornlevi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "smari/smari.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -75,7 +75,7 @@ facebook:
   username               : 
   app_id                 : 
   publisher              :
-og_image                 : "https://www.althingi.is/myndir/mynd/thingmenn/1215/org/mynd.jpg" # Open Graph/Twitter default site image
+og_image                 : "https://www.althingi.is/myndir/mynd/thingmenn/1268/org/mynd.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -93,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Björn Leví Gunnarsson"
+  name             : "Smári McCarthy"
   avatar           : "/assets/images/logo.jpg"
   bio              : ""
   location         : 
-  email            : "bjornlevi@gmail.com"
+  email            : "smari@smarimccarthy.is"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bjornlevi@gmail.com"
+      url: "mailto:smari@smarimccarthy.is"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_bjornlevi_"
+      url: "https://twitter.com/smarimc"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/bjornlevi"
+      url: "https://facebook.com/smarimc"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bjornlevi"
+      url: "https://github.com/smari"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/bjorn_levi/"
+      url: "https://www.instagram.com/smarimccarthy/"
 
 # Site Footer
 footer:
