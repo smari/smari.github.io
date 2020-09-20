@@ -35,7 +35,7 @@ Alexandersflugvöllur og Sauðárkrókur, skjáskot af Google Maps.
 
 ## Mótsögnin í samgönguáætluninni
 
-Vegur 749, Flugvallarvegur á Sauðárkróki, er einn þeirra fjölmörgu vega sem kemur fyrir í grunnneti Samgönguáætlunar. Í þessu felst að hann skal lúta viðhaldsáætlun eins og aðrir vegir í grunnetinu, kostaður af ríkissjóði. Þetta væri í sjálfu sér fyrllilega eðlilegt, nema hvað samkvæmt sömu samgönguáætlun liggur sá vegur ekki á neinn stað. Það er nefnilega þannig að Flugvallarvegur sá tengir saman Sauðárkróksbraut og Alexandersflugvöll. En Alexandersflugvöllur kemur hvergi fyrir í samgönguáætlun.
+Vegur 749, Flugvallarvegur á Sauðárkróki, er einn þeirra fjölmörgu vega sem kemur fyrir í grunnneti Samgönguáætlunar. Í þessu felst að hann skal lúta viðhaldsáætlun eins og aðrir vegir í grunnetinu, kostaður af ríkissjóði. Þetta væri í sjálfu sér fyllilega eðlilegt, nema hvað samkvæmt sömu samgönguáætlun liggur sá vegur ekki á neinn stað. Það er nefnilega þannig að Flugvallarvegur sá tengir saman Sauðárkróksbraut og Alexandersflugvöll. En Alexandersflugvöllur kemur hvergi fyrir í samgönguáætlun.
 
 Flugvellir í grunnneti samgönguáætlunar eru Keflavík, Reykjavík, Bíldudalur, Ísafjörður, Gjögur, Akureyri, Grímsey, Húsavík, Vopnafjörður, Egilsstaðir, Höfn í Hornafirði, Vestmannaeyjar og Þórshöfn. Þetta rímar við Flugmálahandbók Íslands, sem Ísavia gefur út, nema að því leytinu til að Alexandersflugvöllur kemur einnig fyrir í þeirri handbók, enda löng braut og fyllilega hæf til áætlunarflugs, ef áhugi væri á því.
 
